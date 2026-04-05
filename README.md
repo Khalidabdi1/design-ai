@@ -114,7 +114,7 @@ Every file follows the Stitch DESIGN.md format with extended sections:
 
 ## Request a DESIGN.md
 
-[Open a GitHub issue](https://github.com/your-username/design-ai-systems/issues/new?template=design-md-request.yml) to request a DESIGN.md generation for a website.
+[Open a GitHub issue](https://github.com/Khalidabdi1/design-ai/issues/new?template=design-md-request.yml) to request a DESIGN.md generation for a website.
 
 ---
 

@@ -16,7 +16,7 @@ Thank you for your interest in contributing to the Design AI Systems collection!
 
 ### Adding New Companies
 
-Before adding a new company, please [open an issue](https://github.com/your-username/design-ai-systems/issues/new?template=design-md-request.yml) to discuss.
+Before adding a new company, please [open an issue](https://github.com/Khalidabdi1/design-ai/issues/new?template=design-md-request.yml) to discuss.
 
 #### DESIGN.md Structure
 
