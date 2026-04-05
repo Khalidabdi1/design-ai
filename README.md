@@ -7,7 +7,7 @@ Drop one into your project and let AI coding agents build matching UI.
 ![DESIGN.md Count](https://img.shields.io/badge/DESIGN.md%20count-27-10b981?style=classic)
 [![MIT License](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 
----
+----
 
 ## What is DESIGN.md?
 
