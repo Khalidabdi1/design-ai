@@ -4,7 +4,7 @@
 
 Drop one into your project and let AI coding agents build matching UI.
 
-![DESIGN.md Count](https://img.shields.io/badge/DESIGN.md%20count-31-10b981?style=classic)
+![DESIGN.md Count](https://img.shields.io/badge/DESIGN.md%20count-33-10b981?style=classic)
 [![MIT License](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 
 ----
@@ -96,11 +96,13 @@ Every file follows the Stitch DESIGN.md format with extended sections:
 | [**Xbox**](design-md/xbox/DESIGN.md) | Console gaming. Green (#107C10) accent, Fluent Design |
 | [**Twitch**](design-md/twitch/DESIGN.md) | Game streaming. Purple (#9146FF), live content focus |
 
-### Developer Tools & Platforms (7)
+### Developer Tools & Platforms (9)
 
 | Company | Description |
 |---------|-------------|
+| [**Figma**](design-md/figma/DESIGN.md) | Collaborative design platform. Black-white foundation, vivid product accents, tool-like precision |
 | [**GitHub**](design-md/github/DESIGN.md) | Code hosting. Primer design system, octicon icons, developer-first |
+| [**Linear**](design-md/linear/DESIGN.md) | Product development system. Dark indigo surfaces, dense issue workflows, polished execution UI |
 | [**Notion**](design-md/notion/DESIGN.md) | Workspace platform. Warm editorial neutrals, document-first UI, modular blocks |
 | [**Vercel**](design-md/vercel/DESIGN.md) | Deployment platform. Black-white precision, Geist font |
 | [**Stripe**](design-md/stripe/DESIGN.md) | Financial infrastructure. Electric violet brand, developer-first payments UI |
