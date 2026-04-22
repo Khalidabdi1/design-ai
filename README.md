@@ -4,7 +4,7 @@
 
 Drop one into your project and let AI coding agents build matching UI.
 
-![DESIGN.md Count](https://img.shields.io/badge/DESIGN.md%20count-33-10b981?style=classic)
+![DESIGN.md Count](https://img.shields.io/badge/DESIGN.md%20count-35-10b981?style=classic)
 [![MIT License](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 
 ----
@@ -96,7 +96,7 @@ Every file follows the Stitch DESIGN.md format with extended sections:
 | [**Xbox**](design-md/xbox/DESIGN.md) | Console gaming. Green (#107C10) accent, Fluent Design |
 | [**Twitch**](design-md/twitch/DESIGN.md) | Game streaming. Purple (#9146FF), live content focus |
 
-### Developer Tools & Platforms (9)
+### Developer Tools & Platforms (11)
 
 | Company | Description |
 |---------|-------------|
@@ -109,6 +109,8 @@ Every file follows the Stitch DESIGN.md format with extended sections:
 | [**Spotify**](design-md/spotify/DESIGN.md) | Streaming platform. Dark-first UI, Spotify green accent, immersive media rails |
 | [**Supabase**](design-md/supabase/DESIGN.md) | Firebase alternative. Emerald green (#3ECF8E), code-first |
 | [**OpenAI**](design-md/openai/DESIGN.md) | AI research. Clean white/dark, ChatGPT green (#10a37f) |
+| [**MetaMask**](design-md/metamask/DESIGN.md) | Crypto wallet. Dark-forward, purple (#9269F3) brand, fox mascot |
+| [**Mailchimp**](design-md/mailchimp/DESIGN.md) | Email marketing. Yellow (#FFE01B) signature, friendly branding |
 
 ### AI & Machine Learning (1)
 
