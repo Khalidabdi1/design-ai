@@ -13,7 +13,7 @@ If you are looking for:
 
 this repo is built for exactly that workflow.
 
-![DESIGN.md Count](https://img.shields.io/badge/DESIGN.md%20count-100-10b981?style=classic)
+![DESIGN.md Count](https://img.shields.io/badge/DESIGN.md%20count-102-10b981?style=classic)
 [![MIT License](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 
 ---
@@ -185,6 +185,7 @@ If you want high-signal examples first, start with:
 - [Framer](design-md/framer/DESIGN.md)
 - [GitHub](design-md/github/DESIGN.md)
 - [GitLab](design-md/gitlab/DESIGN.md)
+- [Grammarly](design-md/grammarly/DESIGN.md)
 - [HubSpot](design-md/hubspot/DESIGN.md)
 - [Intercom](design-md/intercom/DESIGN.md)
 - [Linear](design-md/linear/DESIGN.md)
@@ -227,6 +228,7 @@ If you want high-signal examples first, start with:
 ### Education & Learning
 
 - [Coursera](design-md/coursera/DESIGN.md)
+- [Duolingo](design-md/duolingo/DESIGN.md)
 - [Udemy](design-md/udemy/DESIGN.md)
 
 ### Consumer Technology
