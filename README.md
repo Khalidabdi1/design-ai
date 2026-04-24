@@ -13,7 +13,7 @@ If you are looking for:
 
 this repo is built for exactly that workflow.
 
-![DESIGN.md Count](https://img.shields.io/badge/DESIGN.md%20count-45-10b981?style=classic)
+![DESIGN.md Count](https://img.shields.io/badge/DESIGN.md%20count-100-10b981?style=classic)
 [![MIT License](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 
 ---
@@ -127,19 +127,39 @@ If you want high-signal examples first, start with:
 - [Threads](design-md/threads/DESIGN.md)
 - [Mastodon](design-md/mastodon/DESIGN.md)
 
+### Creative & Creator Platforms
+
+- [Behance](design-md/behance/DESIGN.md)
+- [Dribbble](design-md/dribbble/DESIGN.md)
+- [Medium](design-md/medium/DESIGN.md)
+- [Patreon](design-md/patreon/DESIGN.md)
+- [Substack](design-md/substack/DESIGN.md)
+
 ### Commerce, Retail & Local Services
 
 - [Amazon](design-md/amazon/DESIGN.md)
+- [Best Buy](design-md/bestbuy/DESIGN.md)
 - [Shopify](design-md/shopify/DESIGN.md)
+- [Costco](design-md/costco/DESIGN.md)
 - [Etsy](design-md/etsy/DESIGN.md)
 - [eBay](design-md/ebay/DESIGN.md)
+- [Expedia](design-md/expedia/DESIGN.md)
 - [Target](design-md/target/DESIGN.md)
+- [Home Depot](design-md/homedepot/DESIGN.md)
 - [Walmart](design-md/walmart/DESIGN.md)
+- [Instacart](design-md/instacart/DESIGN.md)
 - [DoorDash](design-md/doordash/DESIGN.md)
 - [Starbucks](design-md/starbucks/DESIGN.md)
 - [Uber](design-md/uber/DESIGN.md)
 - [Airbnb](design-md/airbnb/DESIGN.md)
 - [Booking.com](design-md/booking/DESIGN.md)
+- [IKEA](design-md/ikea/DESIGN.md)
+- [Lowe's](design-md/lowes/DESIGN.md)
+- [McDonald's](design-md/mcdonalds/DESIGN.md)
+- [Nike](design-md/nike/DESIGN.md)
+- [Tripadvisor](design-md/tripadvisor/DESIGN.md)
+- [Wayfair](design-md/wayfair/DESIGN.md)
+- [Zillow](design-md/zillow/DESIGN.md)
 
 ### Media, Entertainment & Gaming
 
@@ -153,33 +173,74 @@ If you want high-signal examples first, start with:
 
 ### Developer Tools, Productivity & SaaS
 
+- [1Password](design-md/1password/DESIGN.md)
+- [Atlassian](design-md/atlassian/DESIGN.md)
+- [Box](design-md/box/DESIGN.md)
+- [ClickUp](design-md/clickup/DESIGN.md)
+- [Cloudflare](design-md/cloudflare/DESIGN.md)
+- [Datadog](design-md/datadog/DESIGN.md)
+- [DigitalOcean](design-md/digitalocean/DESIGN.md)
+- [Docker](design-md/docker/DESIGN.md)
 - [Figma](design-md/figma/DESIGN.md)
+- [Framer](design-md/framer/DESIGN.md)
 - [GitHub](design-md/github/DESIGN.md)
+- [GitLab](design-md/gitlab/DESIGN.md)
+- [HubSpot](design-md/hubspot/DESIGN.md)
+- [Intercom](design-md/intercom/DESIGN.md)
 - [Linear](design-md/linear/DESIGN.md)
+- [Loom](design-md/loom/DESIGN.md)
+- [Miro](design-md/miro/DESIGN.md)
+- [Microsoft](design-md/microsoft/DESIGN.md)
+- [monday.com](design-md/monday/DESIGN.md)
+- [Netlify](design-md/netlify/DESIGN.md)
 - [Notion](design-md/notion/DESIGN.md)
+- [Oracle](design-md/oracle/DESIGN.md)
+- [Robinhood](design-md/robinhood/DESIGN.md)
+- [Salesforce](design-md/salesforce/DESIGN.md)
 - [Vercel](design-md/vercel/DESIGN.md)
 - [Slack](design-md/slack/DESIGN.md)
 - [Dropbox](design-md/dropbox/DESIGN.md)
 - [Mailchimp](design-md/mailchimp/DESIGN.md)
 - [Asana](design-md/asana/DESIGN.md)
+- [Square](design-md/square/DESIGN.md)
+- [Trello](design-md/trello/DESIGN.md)
+- [Webflow](design-md/webflow/DESIGN.md)
+- [Zapier](design-md/zapier/DESIGN.md)
 - [Zoom](design-md/zoom/DESIGN.md)
 - [Adobe](design-md/adobe/DESIGN.md)
 
 ### Finance, Payments & Crypto
 
+- [Affirm](design-md/affirm/DESIGN.md)
 - [Stripe](design-md/stripe/DESIGN.md)
 - [PayPal](design-md/paypal/DESIGN.md)
 - [Coinbase](design-md/coinbase/DESIGN.md)
 - [MetaMask](design-md/metamask/DESIGN.md)
+- [SoFi](design-md/sofi/DESIGN.md)
+- [Venmo](design-md/venmo/DESIGN.md)
 
 ### AI & Emerging Tech
 
 - [OpenAI](design-md/openai/DESIGN.md)
 - [Anthropic](design-md/anthropic/DESIGN.md)
 
+### Education & Learning
+
+- [Coursera](design-md/coursera/DESIGN.md)
+- [Udemy](design-md/udemy/DESIGN.md)
+
 ### Consumer Technology
 
 - [Apple](design-md/apple/DESIGN.md)
+- [Dell](design-md/dell/DESIGN.md)
+- [Google](design-md/google/DESIGN.md)
+- [HP](design-md/hp/DESIGN.md)
+- [Intel](design-md/intel/DESIGN.md)
+- [LG](design-md/lg/DESIGN.md)
+- [Lenovo](design-md/lenovo/DESIGN.md)
+- [NVIDIA](design-md/nvidia/DESIGN.md)
+- [Samsung](design-md/samsung/DESIGN.md)
+- [Sony](design-md/sony/DESIGN.md)
 
 ---
 
