@@ -13,7 +13,7 @@ If you are looking for:
 
 this repo is built for exactly that workflow.
 
-![DESIGN.md Count](https://img.shields.io/badge/DESIGN.md%20count-106-10b981?style=classic)
+![DESIGN.md Count](https://img.shields.io/badge/DESIGN.md%20count-108-10b981?style=classic)
 [![MIT License](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 
 ---
@@ -216,9 +216,11 @@ If you want high-signal examples first, start with:
 - [Brex](design-md/brex/DESIGN.md)
 - [Klarna](design-md/klarna/DESIGN.md)
 - [Monzo](design-md/monzo/DESIGN.md)
+- [N26](design-md/n26/DESIGN.md)
 - [Stripe](design-md/stripe/DESIGN.md)
 - [PayPal](design-md/paypal/DESIGN.md)
 - [Coinbase](design-md/coinbase/DESIGN.md)
+- [Revolut](design-md/revolut/DESIGN.md)
 - [MetaMask](design-md/metamask/DESIGN.md)
 - [SoFi](design-md/sofi/DESIGN.md)
 - [Venmo](design-md/venmo/DESIGN.md)
