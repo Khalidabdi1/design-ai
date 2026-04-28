@@ -13,7 +13,7 @@ If you are looking for:
 
 this repo is built for exactly that workflow.
 
-![DESIGN.md Count](https://img.shields.io/badge/DESIGN.md%20count-110-10b981?style=classic)
+![DESIGN.md Count](https://img.shields.io/badge/DESIGN.md%20count-112-10b981?style=classic)
 [![MIT License](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 
 ---
@@ -240,7 +240,9 @@ If you want high-signal examples first, start with:
 ### Consumer Technology
 
 - [AMD](design-md/amd/DESIGN.md)
+- [Acer](design-md/acer/DESIGN.md)
 - [Apple](design-md/apple/DESIGN.md)
+- [ASUS](design-md/asus/DESIGN.md)
 - [Dell](design-md/dell/DESIGN.md)
 - [Google](design-md/google/DESIGN.md)
 - [HP](design-md/hp/DESIGN.md)
