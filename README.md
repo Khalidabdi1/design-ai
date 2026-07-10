@@ -13,7 +13,7 @@ If you are looking for:
 
 this repo is built for exactly that workflow.
 
-![DESIGN.md Count](https://img.shields.io/badge/DESIGN.md%20count-239-10b981?style=classic)
+![DESIGN.md Count](https://img.shields.io/badge/DESIGN.md%20count-245-10b981?style=classic)
 [![MIT License](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 
 ---
@@ -139,6 +139,7 @@ If you want high-signal examples first, start with:
 - [Medium](design-md/medium/DESIGN.md)
 - [Patreon](design-md/patreon/DESIGN.md)
 - [Substack](design-md/substack/DESIGN.md)
+- [Beehiiv](design-md/beehiiv/DESIGN.md)
 
 ### Commerce, Retail & Local Services
 
@@ -246,10 +247,13 @@ If you want high-signal examples first, start with:
 - [Zapier](design-md/zapier/DESIGN.md)
 - [Zoom](design-md/zoom/DESIGN.md)
 - [Adobe](design-md/adobe/DESIGN.md)
+- [Cal.com](design-md/calcom/DESIGN.md)
 - [Cursor](design-md/cursor/DESIGN.md)
 - [Hotjar](design-md/hotjar/DESIGN.md)
+- [Novu](design-md/novu/DESIGN.md)
 - [PostHog](design-md/posthog/DESIGN.md)
 - [Resend](design-md/resend/DESIGN.md)
+- [Stytch](design-md/stytch/DESIGN.md)
 - [Whimsical](design-md/whimsical/DESIGN.md)
 - [WorkOS](design-md/workos/DESIGN.md)
 
@@ -290,6 +294,7 @@ If you want high-signal examples first, start with:
 - [Perplexity](design-md/perplexity/DESIGN.md)
 - [Runway](design-md/runway/DESIGN.md)
 - [Groq](design-md/groq/DESIGN.md)
+- [Replicate](design-md/replicate/DESIGN.md)
 
 ### Education & Learning
 
@@ -377,6 +382,7 @@ If you want high-signal examples first, start with:
 - [Zendesk](design-md/zendesk/DESIGN.md)
 - [Gong](design-md/gong/DESIGN.md)
 - [Pendo](design-md/pendo/DESIGN.md)
+- [Pipedrive](design-md/pipedrive/DESIGN.md)
 
 ### More Brands & Platforms
 
