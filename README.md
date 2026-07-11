@@ -13,7 +13,7 @@ If you are looking for:
 
 this repo is built for exactly that workflow.
 
-![DESIGN.md Count](https://img.shields.io/badge/DESIGN.md%20count-245-10b981?style=classic)
+![DESIGN.md Count](https://img.shields.io/badge/DESIGN.md%20count-260-10b981?style=classic)
 [![MIT License](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 
 ---
@@ -140,6 +140,8 @@ If you want high-signal examples first, start with:
 - [Patreon](design-md/patreon/DESIGN.md)
 - [Substack](design-md/substack/DESIGN.md)
 - [Beehiiv](design-md/beehiiv/DESIGN.md)
+- [Penpot](design-md/penpot/DESIGN.md)
+- [Pitch](design-md/pitch/DESIGN.md)
 
 ### Commerce, Retail & Local Services
 
@@ -177,6 +179,8 @@ If you want high-signal examples first, start with:
 - [PlayStation](design-md/playstation/DESIGN.md)
 - [Xbox](design-md/xbox/DESIGN.md)
 - [Twitch](design-md/twitch/DESIGN.md)
+- [Vimeo](design-md/vimeo/DESIGN.md)
+- [Mux](design-md/mux/DESIGN.md)
 
 ### Developer Tools, Productivity & SaaS
 
@@ -247,11 +251,17 @@ If you want high-signal examples first, start with:
 - [Zapier](design-md/zapier/DESIGN.md)
 - [Zoom](design-md/zoom/DESIGN.md)
 - [Adobe](design-md/adobe/DESIGN.md)
+- [Axiom](design-md/axiom/DESIGN.md)
 - [Cal.com](design-md/calcom/DESIGN.md)
 - [Cursor](design-md/cursor/DESIGN.md)
+- [Hex](design-md/hex/DESIGN.md)
 - [Hotjar](design-md/hotjar/DESIGN.md)
+- [Liveblocks](design-md/liveblocks/DESIGN.md)
+- [Mapbox](design-md/mapbox/DESIGN.md)
+- [n8n](design-md/n8n/DESIGN.md)
 - [Novu](design-md/novu/DESIGN.md)
 - [PostHog](design-md/posthog/DESIGN.md)
+- [Raycast](design-md/raycast/DESIGN.md)
 - [Resend](design-md/resend/DESIGN.md)
 - [Stytch](design-md/stytch/DESIGN.md)
 - [Whimsical](design-md/whimsical/DESIGN.md)
@@ -294,7 +304,10 @@ If you want high-signal examples first, start with:
 - [Perplexity](design-md/perplexity/DESIGN.md)
 - [Runway](design-md/runway/DESIGN.md)
 - [Groq](design-md/groq/DESIGN.md)
+- [Pinecone](design-md/pinecone/DESIGN.md)
 - [Replicate](design-md/replicate/DESIGN.md)
+- [Scale AI](design-md/scaleai/DESIGN.md)
+- [Weights & Biases](design-md/wandb/DESIGN.md)
 
 ### Education & Learning
 
@@ -381,6 +394,8 @@ If you want high-signal examples first, start with:
 - [Xero](design-md/xero/DESIGN.md)
 - [Zendesk](design-md/zendesk/DESIGN.md)
 - [Gong](design-md/gong/DESIGN.md)
+- [Greenhouse](design-md/greenhouse/DESIGN.md)
+- [Gusto](design-md/gusto/DESIGN.md)
 - [Pendo](design-md/pendo/DESIGN.md)
 - [Pipedrive](design-md/pipedrive/DESIGN.md)
 
