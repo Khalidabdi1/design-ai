@@ -13,7 +13,7 @@ If you are looking for:
 
 this repo is built for exactly that workflow.
 
-![DESIGN.md Count](https://img.shields.io/badge/DESIGN.md%20count-260-10b981?style=classic)
+![DESIGN.md Count](https://img.shields.io/badge/DESIGN.md%20count-270-10b981?style=classic)
 [![MIT License](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 
 ---
@@ -129,6 +129,7 @@ If you want high-signal examples first, start with:
 - [Telegram](design-md/telegram/DESIGN.md)
 - [Threads](design-md/threads/DESIGN.md)
 - [Mastodon](design-md/mastodon/DESIGN.md)
+- [Bluesky](design-md/bluesky/DESIGN.md)
 
 ### Creative & Creator Platforms
 
@@ -142,6 +143,7 @@ If you want high-signal examples first, start with:
 - [Beehiiv](design-md/beehiiv/DESIGN.md)
 - [Penpot](design-md/penpot/DESIGN.md)
 - [Pitch](design-md/pitch/DESIGN.md)
+- [LottieFiles](design-md/lottiefiles/DESIGN.md)
 
 ### Commerce, Retail & Local Services
 
@@ -251,6 +253,8 @@ If you want high-signal examples first, start with:
 - [Zapier](design-md/zapier/DESIGN.md)
 - [Zoom](design-md/zoom/DESIGN.md)
 - [Adobe](design-md/adobe/DESIGN.md)
+- [Appwrite](design-md/appwrite/DESIGN.md)
+- [Auth0](design-md/auth0/DESIGN.md)
 - [Axiom](design-md/axiom/DESIGN.md)
 - [Cal.com](design-md/calcom/DESIGN.md)
 - [Cursor](design-md/cursor/DESIGN.md)
@@ -263,6 +267,7 @@ If you want high-signal examples first, start with:
 - [PostHog](design-md/posthog/DESIGN.md)
 - [Raycast](design-md/raycast/DESIGN.md)
 - [Resend](design-md/resend/DESIGN.md)
+- [Superhuman](design-md/superhuman/DESIGN.md)
 - [Stytch](design-md/stytch/DESIGN.md)
 - [Whimsical](design-md/whimsical/DESIGN.md)
 - [WorkOS](design-md/workos/DESIGN.md)
@@ -288,6 +293,7 @@ If you want high-signal examples first, start with:
 - [Venmo](design-md/venmo/DESIGN.md)
 - [Wise](design-md/wise/DESIGN.md)
 - [Mercury](design-md/mercury/DESIGN.md)
+- [Paddle](design-md/paddle/DESIGN.md)
 - [Ramp](design-md/ramp/DESIGN.md)
 
 ### AI & Emerging Tech
@@ -340,6 +346,7 @@ If you want high-signal examples first, start with:
 - [Samsung](design-md/samsung/DESIGN.md)
 - [Sony](design-md/sony/DESIGN.md)
 - [Xiaomi](design-md/xiaomi/DESIGN.md)
+- [Arc Browser](design-md/arc/DESIGN.md)
 - [Zen Browser](design-md/zenbrowser/DESIGN.md)
 
 ### Enterprise, Cloud & Infrastructure
@@ -393,11 +400,14 @@ If you want high-signal examples first, start with:
 - [Workday](design-md/workday/DESIGN.md)
 - [Xero](design-md/xero/DESIGN.md)
 - [Zendesk](design-md/zendesk/DESIGN.md)
+- [Basecamp](design-md/basecamp/DESIGN.md)
+- [Canny](design-md/canny/DESIGN.md)
 - [Gong](design-md/gong/DESIGN.md)
 - [Greenhouse](design-md/greenhouse/DESIGN.md)
 - [Gusto](design-md/gusto/DESIGN.md)
 - [Pendo](design-md/pendo/DESIGN.md)
 - [Pipedrive](design-md/pipedrive/DESIGN.md)
+- [Productboard](design-md/productboard/DESIGN.md)
 
 ### More Brands & Platforms
 
