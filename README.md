@@ -13,7 +13,7 @@ If you are looking for:
 
 this repo is built for exactly that workflow.
 
-![DESIGN.md Count](https://img.shields.io/badge/DESIGN.md%20count-270-10b981?style=classic)
+![DESIGN.md Count](https://img.shields.io/badge/DESIGN.md%20count-285-10b981?style=classic)
 [![MIT License](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 
 ---
@@ -144,6 +144,8 @@ If you want high-signal examples first, start with:
 - [Penpot](design-md/penpot/DESIGN.md)
 - [Pitch](design-md/pitch/DESIGN.md)
 - [LottieFiles](design-md/lottiefiles/DESIGN.md)
+- [Craft](design-md/craft/DESIGN.md)
+- [Readwise](design-md/readwise/DESIGN.md)
 
 ### Commerce, Retail & Local Services
 
@@ -271,6 +273,9 @@ If you want high-signal examples first, start with:
 - [Stytch](design-md/stytch/DESIGN.md)
 - [Whimsical](design-md/whimsical/DESIGN.md)
 - [WorkOS](design-md/workos/DESIGN.md)
+- [Firebase](design-md/firebase/DESIGN.md)
+- [Bun](design-md/bun/DESIGN.md)
+- [Hoppscotch](design-md/hoppscotch/DESIGN.md)
 
 ### Finance, Payments & Crypto
 
@@ -295,6 +300,7 @@ If you want high-signal examples first, start with:
 - [Mercury](design-md/mercury/DESIGN.md)
 - [Paddle](design-md/paddle/DESIGN.md)
 - [Ramp](design-md/ramp/DESIGN.md)
+- [Lemon Squeezy](design-md/lemonsqueezy/DESIGN.md)
 
 ### AI & Emerging Tech
 
@@ -314,6 +320,9 @@ If you want high-signal examples first, start with:
 - [Replicate](design-md/replicate/DESIGN.md)
 - [Scale AI](design-md/scaleai/DESIGN.md)
 - [Weights & Biases](design-md/wandb/DESIGN.md)
+- [Midjourney](design-md/midjourney/DESIGN.md)
+- [Pika](design-md/pika/DESIGN.md)
+- [Together AI](design-md/togetherai/DESIGN.md)
 
 ### Education & Learning
 
@@ -348,6 +357,7 @@ If you want high-signal examples first, start with:
 - [Xiaomi](design-md/xiaomi/DESIGN.md)
 - [Arc Browser](design-md/arc/DESIGN.md)
 - [Zen Browser](design-md/zenbrowser/DESIGN.md)
+- [Obsidian](design-md/obsidian/DESIGN.md)
 
 ### Enterprise, Cloud & Infrastructure
 
@@ -383,6 +393,8 @@ If you want high-signal examples first, start with:
 - [VMware](design-md/vmware/DESIGN.md)
 - [Airbyte](design-md/airbyte/DESIGN.md)
 - [New Relic](design-md/newrelic/DESIGN.md)
+- [Weaviate](design-md/weaviate/DESIGN.md)
+- [ClickHouse](design-md/clickhouse/DESIGN.md)
 
 ### Business, Operations & Workplace Software
 
@@ -408,6 +420,9 @@ If you want high-signal examples first, start with:
 - [Pendo](design-md/pendo/DESIGN.md)
 - [Pipedrive](design-md/pipedrive/DESIGN.md)
 - [Productboard](design-md/productboard/DESIGN.md)
+- [BambooHR](design-md/bamboohr/DESIGN.md)
+- [Freshdesk](design-md/freshdesk/DESIGN.md)
+- [Lattice](design-md/lattice/DESIGN.md)
 
 ### More Brands & Platforms
 
