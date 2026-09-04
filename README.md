@@ -13,7 +13,7 @@ If you are looking for:
 
 this repo is built for exactly that workflow.
 
-![DESIGN.md Count](https://img.shields.io/badge/DESIGN.md%20count-285-10b981?style=classic)
+![DESIGN.md Count](https://img.shields.io/badge/DESIGN.md%20count-290-10b981?style=classic)
 [![MIT License](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 
 ---
@@ -130,6 +130,8 @@ If you want high-signal examples first, start with:
 - [Threads](design-md/threads/DESIGN.md)
 - [Mastodon](design-md/mastodon/DESIGN.md)
 - [Bluesky](design-md/bluesky/DESIGN.md)
+- [Instagram](design-md/instagram/DESIGN.md)
+- [WhatsApp](design-md/whatsapp/DESIGN.md)
 
 ### Creative & Creator Platforms
 
@@ -185,6 +187,8 @@ If you want high-signal examples first, start with:
 - [Twitch](design-md/twitch/DESIGN.md)
 - [Vimeo](design-md/vimeo/DESIGN.md)
 - [Mux](design-md/mux/DESIGN.md)
+- [YouTube](design-md/youtube/DESIGN.md)
+- [Roblox](design-md/roblox/DESIGN.md)
 
 ### Developer Tools, Productivity & SaaS
 
@@ -358,6 +362,7 @@ If you want high-signal examples first, start with:
 - [Arc Browser](design-md/arc/DESIGN.md)
 - [Zen Browser](design-md/zenbrowser/DESIGN.md)
 - [Obsidian](design-md/obsidian/DESIGN.md)
+- [Peloton](design-md/peloton/DESIGN.md)
 
 ### Enterprise, Cloud & Infrastructure
 
